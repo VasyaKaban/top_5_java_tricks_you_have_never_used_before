@@ -1,0 +1,8 @@
+/home/vasyakaban/items/psp/lab7/build-lab7-Desktop-Debug/CMakeFiles/lab7.dir
+/home/vasyakaban/items/psp/lab7/build-lab7-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/vasyakaban/items/psp/lab7/build-lab7-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/vasyakaban/items/psp/lab7/build-lab7-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/vasyakaban/items/psp/lab7/build-lab7-Desktop-Debug/CMakeFiles/install.dir
+/home/vasyakaban/items/psp/lab7/build-lab7-Desktop-Debug/CMakeFiles/install/local.dir
+/home/vasyakaban/items/psp/lab7/build-lab7-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/vasyakaban/items/psp/lab7/build-lab7-Desktop-Debug/CMakeFiles/lab7_autogen.dir

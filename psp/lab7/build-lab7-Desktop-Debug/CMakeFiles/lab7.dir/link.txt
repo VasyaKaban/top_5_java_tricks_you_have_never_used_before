@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/lab7.dir/lab7_autogen/mocs_compilation.cpp.o CMakeFiles/lab7.dir/main.cpp.o CMakeFiles/lab7.dir/mainwindow.cpp.o -o lab7  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.10 /usr/lib/x86_64-linux-gnu/libQt5Sql.so.5.15.10 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.10 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.10 
